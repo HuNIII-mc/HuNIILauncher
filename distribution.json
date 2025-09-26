@@ -13,14 +13,14 @@
       "description": "HuNIILauncher Running Minecraft 1.21.8 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/HuNIII-mc/HuNIILauncher/main/servers/HuNIILauncher-1.21.8/icon.png",
       "version": "1.0.0",
-      "address": "https://raw.githubusercontent.com/HuNIII-mc/HuNIILauncher/main",
+      "address": "hunii.kro.kr:25565",
       "minecraftVersion": "1.21.8",
       "discord": {
         "shortId": "후니 서버",
         "largeImageText": "후니 서버 접속중",
         "largeImageKey": "lua_icon"
       },
-      "mainServer": "address":"hunii.kro.kr:25565",
+      "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
