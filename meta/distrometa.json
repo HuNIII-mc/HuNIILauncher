@@ -1,11 +1,11 @@
 {
-  "$schema": "file:///D:/HuNIILuancher/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///https://githubusercontent.com/HuNIII-mc/HuNIILuancher/main/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "1415621580566036480",
+      "smallImageText": "후니 서버 접속중",
+      "smallImageKey": "lua_icon"
     }
   }
 }
