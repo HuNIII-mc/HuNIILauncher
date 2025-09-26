@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///https://githubusercontent.com/HuNIII-mc/HuNIILuancher/main/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///https://raw.githubusercontent.com/HuNIII-mc/HuNIILuancher/main/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
