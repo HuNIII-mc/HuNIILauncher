@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///D:/HuNIILuancher/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///https://raw.githubusercontent.com/HuNIII-mc/HuNIILuancher/main/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "HuNIILauncher (Minecraft 1.21.8)",
@@ -7,12 +7,12 @@
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "후니서버",
+      "largeImageText": "후니 서버 접속중",
+      "largeImageKey": "lua_icon"
     },
-    "mainServer": false,
-    "autoconnect": false
+    "mainServer": "address": "hunii.kro.kr:25565",
+    "autoconnect": true
   },
   "fabric": {
     "version": "0.17.2"
