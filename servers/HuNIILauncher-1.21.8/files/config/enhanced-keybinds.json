@@ -1,0 +1,6 @@
+{
+  "enableControlsBinds": true,
+  "enableSkinBinds": true,
+  "enableIndividualSkinBinds": false,
+  "registerEscapeKeybind": false
+}
