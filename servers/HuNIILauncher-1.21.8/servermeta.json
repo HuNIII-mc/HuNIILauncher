@@ -5,13 +5,13 @@
     "name": "HuNIILauncher (Minecraft 1.21.8)",
     "description": "HuNIILauncher Running Minecraft 1.21.8 (Fabric v0.17.2)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "hunii.kro.kr:25565",
     "discord": {
       "shortId": "후니서버",
       "largeImageText": "후니 서버 접속중",
       "largeImageKey": "lua_icon"
     },
-    "mainServer": "address": "hunii.kro.kr:25565",
+    "mainServer": true,
     "autoconnect": true
   },
   "fabric": {
